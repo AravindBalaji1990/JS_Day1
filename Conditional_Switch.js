@@ -1,7 +1,6 @@
 //switch
 // the switch will hcek for which condition and directly points to that condition
-var grade='k';  
-grade = grade.toUpperCase();
+var grade='B';  
 var result;  
 switch(grade){  
 case 'A':  
