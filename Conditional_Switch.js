@@ -1,6 +1,6 @@
 //switch
 // the switch will hcek for which condition and directly points to that condition
-var grade='B';  
+var grade='A';  
 var result;  
 switch(grade){  
 case 'A':  
@@ -10,11 +10,11 @@ case 'A':
 case 'B':  
     result="B Grade";
     console.log(result);  
-    // break;  
+    break;  
 case 'C':  
     result="C Grade";  
     console.log(result);  
-    // break;  
+    break;  
 default:  
     result="No Grade";  
     console.log(result);  
