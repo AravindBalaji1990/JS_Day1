@@ -22,9 +22,9 @@ var a=20;
 if(a==10){  
 console.log("a is equal to 10");  
 }  
-else if(a==20){  
-console.log("a is equal to 20 frist one");  
-}  
+// else if(a==20){  
+// console.log("a is equal to 20 frist one");  
+// }  
 else if(a==20){  
 console.log("a is equal to 20");  
 }  
