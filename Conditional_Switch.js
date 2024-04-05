@@ -6,7 +6,7 @@ switch(grade){
 case 'A':  
     result="A Grade";  
     console.log(result);  
-    break;  
+    // break;
 case 'B':  
     result="B Grade";
     console.log(result);  
