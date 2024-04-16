@@ -14,16 +14,15 @@
 // emp2[2] = "John"; 
 // emp2[3] = "sanjay"
 // emp2[4] = "kumar"
-  
 // for (i=0;i<emp2.length;i++){  
 // console.log(emp2[i]);  
 // }  
 
 //using constructor - Array  
 // Array.prototype
-// var emp3=new Array("Jai","Vijay","Smith","sam");  
-// console.log('the total items inside the array : '+ emp3.length) 
+var emp3=new Array("Jai","Vijay","Smith","sam");  
+console.log('the total items inside the array : '+ emp3.length) 
 
-// for (i=0;i<emp3.length;i++){  
-// console.log(emp3[i]);  
-// }  
+for (i=0;i<emp3.length;i++){  
+console.log(emp3[i]);  
+}  
